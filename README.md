@@ -48,4 +48,8 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 
 - **Contribution**: Ensures the technical team understands required features, leading to better planning and implementation of dynamic components.
 
-
+## Types of Wireframes.
+|Wireframe Type|Description|Typical Use Cases|Level of Detail|
+|--------|--------|--------|--------|
+|Low-Fidelity|Basic sketch-like wireframes focusing on layout and structure without styling.|	Early-stage brainstorming and layout planning.|	Minimal (e.g., boxes, lines)|
+|High-Fidelity|Detailed wireframes that closely resemble the final UI, including text, icons, and interactions.|Later in the design process to guide developers and gather stakeholder feedback.|	High (fonts, images, UI elements)|
