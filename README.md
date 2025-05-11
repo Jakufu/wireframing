@@ -92,3 +92,30 @@ Wireframing is a crucial step in the software development lifecycle. It provides
 
 ### Collaboration in Action
 For example, during the planning of the hotel booking system, wireframes were used to show how users would search for properties, view details, and complete a checkout. These visuals made it easier for the frontend team to understand the design intent, for backend developers to know what data would be needed, and for stakeholders to approve the overall user flow before development began.
+
+## Wireframing in Practice
+Real-World Scenario: Wireframing to Identify Usability Issues
+### Scenario Overview
+During the early design phase of a hotel booking application, wireframing revealed a major usability issue. The checkout process originally included all steps—guest information, payment, confirmation—on a single, scroll-heavy page. While the design team initially thought this would simplify the flow, feedback from stakeholders during the wireframing review indicated it could overwhelm users and increase abandonment rates.
+
+### Issue Resolution
+By reviewing the low-fidelity wireframe, the team identified that:
+- Important elements like payment summary and confirmation button were hard to locate.
+- Users might not realize they had to scroll to complete all steps.
+
+### Solution:
+The team modified the wireframe to break the checkout into three clear, separate steps using a progress indicator:
+
+- Guest Details
+- Payment
+- Confirmation
+
+This revision was made before any development began, saving time and ensuring a smoother user experience.
+
+### Impact on Final Product
+- Improved clarity and task completion: Users reported easier navigation through the multi-step process.
+- Reduced cart abandonment: The structured flow improved overall engagement during user testing.
+- Development aligned with UX goals: Since the layout was validated early, developers could focus on functionality without backtracking.
+
+### Conclusion
+Wireframing plays a pivotal role in catching usability flaws early, before costly code is written. It allows teams to experiment, get feedback, and iterate quickly. Ultimately, wireframing ensures the final product is not just functional, but user-centered and easy to navigate.
